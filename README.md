@@ -1,6 +1,4 @@
-プラグイン・MODの作成依頼は全てお断りさせていただいております。
-
-MinecraftPluginとかExcelVBAで色々作ったりします。
-Java HTML vba
+趣味でMinecraftPluginとか作ってます。
+HTML&CSS java vba javascript discord.js
 
 chirknetwork所属 https://chirknetwork.com
