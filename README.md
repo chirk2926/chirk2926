@@ -1,7 +1,7 @@
 趣味でMinecraftPluginとか作ってます。
 HTML&CSS java vba javascript discord.js
 
-## infp
+## info
 Name : chirk(handle name)
 github : @chirk2926
 
