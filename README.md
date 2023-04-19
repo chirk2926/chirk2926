@@ -4,6 +4,7 @@ HTML&CSS java vba javascript discord.js
 ## info
 Name : chirk(handle name)
 github : @chirk2926
+cnw developer
 
 ## Summary
 I started programming when I was in the first year of junior high school and have been doing it little by little.
@@ -16,6 +17,11 @@ It was interesting and stimulating to meet new people as we grew a bit in size, 
 I think it was a great experience for me to do all of the above.
 
 # 以下は日本語
+
+##info
+名前 : chirk(ハンドルネーム)
+github : @chirk2926
+cnw システム開発者
 
 ## 経歴(？)
 社会経験のためインターネット上の友人と学校の友達と小さなコミュニティを作り、はじめは全国公開のゲームを作ったりコードのエラーを治す方法を教えてもらうものから小規模ゲームサーバーレンタルサービスをはじめました。
