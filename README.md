@@ -15,16 +15,3 @@ For my social experience, I created a small community of friends on the Internet
 I believe that I gained experience in managing a small community and working with others in an organizational setting.
 It was interesting and stimulating to meet new people as we grew a bit in size, and to meet some amazing people. In fact, I started this kind of community because I met those amazing people and became interested in that field.
 I think it was a great experience for me to do all of the above.
-
-# 以下は日本語
-
-##info
-名前 : chirk(ハンドルネーム)
-github : @chirk2926
-cnw システム開発者
-
-## 経歴(？)
-社会経験のためインターネット上の友人と学校の友達と小さなコミュニティを作り、はじめは全国公開のゲームを作ったりコードのエラーを治す方法を教えてもらうものから小規模ゲームサーバーレンタルサービスをはじめました。
-小さいながらも１つのコミュニティを運営するということになり、組織運営する上で他の人と協力して物事をすすめるという経験を得られたと思っています。
-少しだけ規模が大きくなっていくに連れて新しい人とも出会うことができ、すごい人との出会いがあったりするのが面白くて刺激になりました。実際に私がこのようなコミュニティを立ち上げたのもそのすごい人との出会いがありその分野に興味を持ったためです。
-以上のようなことをすることができてとても良い経験になったと思います。
